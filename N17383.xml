@@ -119,19 +119,20 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:022469_0000_0FB9208C15A634B0"/>
-                  <pb facs="tcp:022469_0001_0FB920864A3D3358" rendition="simple:additions"/>
+                  <pb facs="unknown:022469_0000_0FB9208C15A634B0"/>
+                  <pb facs="unknown:022469_0001_0FB920864A3D3358"
+                      rendition="simple:additions"/>
                   <p>THE Oeconomy of Human Life, COMPLETE, IN TWO PARTS: TRANSLATED FROM AN INDIAN MANUSCRIPT, WRITTEN BY AN ANCIENT BRAMIN.</p>
                   <p>TO WHICH IS PREFIXED, An Account of the Manner in which the ſaid Manuſcript was diſcovered; IN A LETTER FROM An ENGLISH GENTLEMAN reſiding in CHINA, TO THE EARL OF * * * * * * *.</p>
                   <p>NEW-YORK: PRINTED AND SOLD BY HUGH GAINE, AT THE BIBLE, IN HANOVER-SQUARE. M,DCC,XC.</p>
                </div>
                <div type="to_the_reader">
-                  <pb facs="tcp:022469_0002_0FB92086D4AAA640"/>
+                  <pb facs="unknown:022469_0002_0FB92086D4AAA640"/>
                   <head>TO THE PUBLIC.</head>
                   <p>THE ſpirit of virtue and morality which breathes in this ancient piece of Eaſtern inſtruction,<note n="*" place="bottom">Meaning the firſt Part, which was publiſhed ſome time before the ſecond appeared.</note> its force and conciſeneſs, and the hopes that it may do good, have prevailed with the perſon to whom it was ſent, to communicate to the Public what was tranſ<g ref="char:EOLhyphen"/>lated only for his particular amuſement. There are ſome reaſons, which at preſent make it proper to conceal, not only his own name, but the name of his correſpondent, who has now reſided in China ſeveral years, and been engaged in a buſineſs very different from that of collecting literary curioſities. Theſe reaſons will not ſubſiſt long; and as he ſeems to intimate a deſign, on his return to England, of publiſhing an entire tranſlation of Cao-Tſou's whole journey, the Public will then, in all probability, have an opportunity of being ſatisfied concerning any particulars which they may be curious to know.</p>
                </div>
                <div type="table_of_contents">
-                  <pb facs="tcp:022469_0003_0FB9208B0642B110"/>
+                  <pb facs="unknown:022469_0003_0FB9208B0642B110"/>
                   <head>CONTENTS.</head>
                   <div n="1" type="part">
                      <head>PART I.</head>
@@ -167,7 +168,7 @@
                         <p>WOMAN. 27</p>
                      </div>
                      <div n="4" type="book">
-                        <pb n="vi" facs="tcp:022469_0004_0FB9208D94C04180"/>
+                        <pb n="vi" facs="unknown:022469_0004_0FB9208D94C04180"/>
                         <head>BOOK IV. CONSANGUINITY; Or, NATURAL RELATIONS.</head>
                         <list>
                            <item>CHAP. 1. HUSBAND, <hi>Page</hi> 28</item>
@@ -201,7 +202,7 @@
                      </div>
                   </div>
                   <div n="2" type="part">
-                     <pb n="vii" facs="tcp:022469_0005_0FB9208F13F4CF78"/>
+                     <pb n="vii" facs="unknown:022469_0005_0FB9208F13F4CF78"/>
                      <head>PART II.</head>
                      <list>
                         <item>DEDICATORY PREFACE, <hi>Page</hi> 45</item>
@@ -238,7 +239,7 @@
                         </list>
                      </div>
                      <div n="4" type="book">
-                        <pb n="viii" facs="tcp:022469_0006_0FB92090946E58C0"/>
+                        <pb n="viii" facs="unknown:022469_0006_0FB92090946E58C0"/>
                         <head>BOOK IV. OF the ADVANTAGES Man may acquire over his Fellow-Creatures.</head>
                         <list>
                            <item>CHAP. 1. NOBILITY and HONOUR, <hi>Page</hi> 77</item>
@@ -256,7 +257,7 @@
                   </div>
                </div>
                <div type="preface">
-                  <pb facs="tcp:022469_0007_0FB9209497111720"/>
+                  <pb facs="unknown:022469_0007_0FB9209497111720"/>
                   <head>TO THE EARL OF * * * * * * *.</head>
                   <opener>
                      <dateline>PEKING,
@@ -267,7 +268,7 @@
                   </opener>
                   <p>IN the laſt letter which I had the honor of writing to your Lord<g ref="char:EOLhyphen"/>ſhip, dated December <hi>23, 1748,</hi> I think I concluded all I had to ſay in regard to the topography and natural hiſtory of this great empire. I purpoſed in this, and ſome ſucceeding ones, to have ſet down ſuch obſervations as I have been able to make on the laws, go<g ref="char:EOLhyphen"/>vernment, religion, and manners of the people. But a remarkable occurrence has happened lately, which engroſſes the converſation of the literati here, and may hereafter, perhaps, afford matter of ſpe<g ref="char:EOLhyphen"/>culation to the learned in Europe. As it is of a nature which I know will furniſh ſome entertainment to your Lordſhip, I will endeavour to give you as diſtinct and particular an account of it as I have been able to obtain.</p>
                   <p>Adjoining to China on the weſt, is the large country of Thibet, called by ſome Barantola. In a province of this country, named Laſa, reſides the Grand Lama, or High Prieſt of theſe idolaters; who is reverenced, and even adored as a God, by moſt of the neigh<g ref="char:EOLhyphen"/>bouring nations. The high opinion which is entertained of his ſacred character, induces prodigious numbers of religious people to reſort to Laſa, to pay their homage to him, and to give him preſents, in order to receive his bleſſing. His reſidence is in a moſt magnificent pagod, or temple, built on the top of the mountain Poutala. The foot of this mountain, and even the whole diſtrict of Laſa, is inhabited by an incredible number of Lamas of different ranks and orders; ſeveral of whom have very grand pagods erected to their honor, in which they receive a kind of inferior worſhip. The whole country, like Italy, abounds with prieſts; and they entirely ſubſiſt on the great number of rich preſents which are ſent them from the utmoſt extent of Tartary, from the empire of the Great Mogul, and from almoſt all parts of the Indies. When the Grand Lama receives the adora<g ref="char:EOLhyphen"/>tions of the people, he is raiſed on a magnificent altar, and ſits croſs-legged upon a ſplendid cuſhion. His worſhippers proſtrate themſelves before him, in the humbleſt and moſt abject manner; but he returns not the leaſt ſign of reſpect, nor ever ſpeaks even to the greateſt princes. He only lays his hand upon their heads, and they are fully perſuaded that they receive from thence a full for<g ref="char:EOLhyphen"/>giveneſs of all their ſins. They are likewiſe ſo extravagant as to
-<pb n="x" facs="tcp:022469_0008_0FB92099502FF778"/>
+<pb n="x" facs="unknown:022469_0008_0FB92099502FF778"/>
 imagine, that he knows all things, even the ſecrets of the heart; and his particular diſciples, being a ſelect number of about two hundred of the moſt eminent Lamas, have the addreſs to make the people be<g ref="char:EOLhyphen"/>lieve he is immortal; and that, whenever he appears to die, he only changes his abode, and animates a new body.</p>
                   <p>The learned in China have long been of opinion, that, in the ar<g ref="char:EOLhyphen"/>chieves of this grand temple, ſome very ancient books have for many ages been concealed; and the preſent Emperor, who is very curious in ſearching after the writings of antiquity, became at length ſo fully convinced of the probability of this opinion, that he determined to try whether any diſcovery of this ſort could be made. To this end, his firſt care was, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -281,7 +282,7 @@ imagine, that he knows all things, even the ſecrets of the heart; and his parti
                         </opener>
                         <p>WE, the EMPEROR of CHINA, Sovereign of all the ſovereigns of the earth, in the perſon of this our moſt re<g ref="char:EOLhyphen"/>ſpected prime miniſter, CAO-TSOU, with all reverence and humility, proſtrate ourſelf beneath thy ſacred feet, and im<g ref="char:EOLhyphen"/>plore, for ourſelf, our friends, and our empire, thy moſt powerful and gracious benediction.</p>
                         <p>Having a ſtrong deſire to ſearch into the records of antiquity, to learn and retrieve the wiſdom of the ages that are paſt; and being well informed, that, in the ſacred repoſitories of thy moſt ancient and venerable hierarchy, there are ſome valuable
-<pb n="xi" facs="tcp:022469_0009_0FB9209A59BE6888"/>
+<pb n="xi" facs="unknown:022469_0009_0FB9209A59BE6888"/>
 books, which, from their great antiquity, are become to the generality, even of the learned, almoſt wholly unintelligible; in order, as far as in us lies, to prevent their being totally loſt, we have thought proper to authoriſe and employ our moſt learned and reſpected miniſter, Cao-Tſou, in this our preſent embaſſy to thy Sublime Holineſs. The buſineſs of which is, to deſire, that he may be permitted to read and examine the ſaid writings—we expecting, from his great and uncommon ſkill in the ancient languages, that he will be able to interpret whatever may be found, though of the higheſt and moſt obſcure antiquity. And we have commanded him to throw himſelf at thy feet, with ſuch teſtimonies of our reſpect, as, we truſt, will procure him the admittance we deſire.</p>
                      </body>
                   </floatingText>
@@ -291,7 +292,7 @@ books, which, from their great antiquity, are become to the generality, even of 
                      </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>; but theſe labour under
-<pb n="xii" facs="tcp:022469_0010_0FB9209BD3E790D8"/>
+<pb n="xii" facs="unknown:022469_0010_0FB9209BD3E790D8"/>
 the ſame difficulty, in regard to the language, with thoſe who attri<g ref="char:EOLhyphen"/>bute it to Confucius. There are others, who, from ſome particular marks and ſentiments which they find in it, ſuppoſe it to be written by the Bramin Dandamis, whoſe famous letter to Alexander the Great, is recorded by the European writers. With theſe Cao-Tſou himſelf ſeems moſt inclined to agree; at leaſt ſo far as to think, that it is really the work of ſome ancient Bramin; being fully perſuaded, from the ſpirit with which it is written, t<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap> it is no tranſlation. One thing, however, occaſions ſome doubt amongſt them; and that is, the plan of it; which is entirely new to the Eaſtern people, and ſo unlike any thing they have ever ſeen, that, if it was not for ſome turns of expreſſion peculiar to the Eaſt, and the impoſſibility of accounting for its being written in this very ancient language, many would ſuppoſe it to be the work of an European.</p>
@@ -315,7 +316,7 @@ the ſame difficulty, in regard to the language, with thoſe who attri<g ref="ch
             </front>
             <body>
                <div type="text">
-                  <pb facs="tcp:022469_0011_0FB9209D53FEE198"/>
+                  <pb facs="unknown:022469_0011_0FB9209D53FEE198"/>
                   <head>THE Oeconomy of Human Life.</head>
                   <div type="introduction">
                      <head>INTRODUCTION.</head>
@@ -335,7 +336,7 @@ the ſame difficulty, in regard to the language, with thoſe who attri<g ref="ch
                      <p>Hear then his voice, for it is gracious; and he that obeyeth ſhall eſtabliſh his ſoul in peace.</p>
                   </div>
                   <div n="1" type="book">
-                     <pb n="14" facs="tcp:022469_0012_0FB9209ED419C080"/>
+                     <pb n="14" facs="unknown:022469_0012_0FB9209ED419C080"/>
                      <head>BOOK I. DUTIES that relate to MAN, conſidered as an INDIVIDUAL.</head>
                      <div n="1" type="chapter">
                         <head>CHAP. I CONSIDERATION.</head>
@@ -351,7 +352,7 @@ the ſame difficulty, in regard to the language, with thoſe who attri<g ref="ch
                         <p>WHO art thou, O man! that preſumeth on thine own wiſdom? or why doſt thou vaunt thyſelf on thine own acquire<g ref="char:EOLhyphen"/>ments?</p>
                         <p>The firſt ſtep towards being wiſe, is to know that thou art ignorant; and, if thou wouldſt not be eſteemed fooliſh in the judgment of others, caſt off the folly of being wiſe in thine own conceit.</p>
                         <p>
-                           <pb n="15" facs="tcp:022469_0013_0FB920A72F1F00E8"/>As a plain garment beſt adorneth a beautiful woman, ſo a decent behaviour is the greateſt ornament of wiſdom.</p>
+                           <pb n="15" facs="unknown:022469_0013_0FB920A72F1F00E8"/>As a plain garment beſt adorneth a beautiful woman, ſo a decent behaviour is the greateſt ornament of wiſdom.</p>
                         <p>The ſpeech of a modeſt man giveth luſtre to truth, and the diffidence of his words abſolveth his error.</p>
                         <p>He relieth not on his own wiſdom; he weigheth the counſels of a friend, and receiveth the benefit thereof.</p>
                         <p>He turneth away his ear from his own praiſe, and believeth it not; he is the laſt in diſcovering his own perfections.</p>
@@ -372,7 +373,7 @@ the ſame difficulty, in regard to the language, with thoſe who attri<g ref="ch
                            </gap>n; but the labour of virtue bringeth forth pleaſure.</p>
                         <p>The hand of diligence defeateth want; proſperity and ſucceſs are the induſtrious man's attendants.</p>
                         <p>Who is he that hath acquired wealth, that hath riſen to power, that hath clothed himſelf with honour, that is ſpoken of
-<pb n="16" facs="tcp:022469_0014_0FB920A7D3D57420"/>
+<pb n="16" facs="unknown:022469_0014_0FB920A7D3D57420"/>
 in the city with praiſe, and that ſtandeth before the king in his counſel? Even he that hath ſhut out idleneſs from his houſe; and hath ſaid, Sloth, thou art mine enemy.</p>
                         <p>He riſeth up early, and lieth down late; he exerciſeth his mind with contemplation, and his body with action; and pre<g ref="char:EOLhyphen"/>ſerveth the health of both.</p>
                         <p>The ſlothful man is a burden to himſelf, his hours hang heavy on his head; he loitereth about, and knoweth not what he would do.</p>
@@ -395,7 +396,7 @@ in the city with praiſe, and that ſtandeth before the king in his counſel? Ev
                               <desc>•</desc>
                            </gap> courſe.</p>
                         <p>
-                           <pb n="17" facs="tcp:022469_0015_0FB920A954AD1740"/>He riſeth like the palm-tree, in ſpite of oppreſſion; and, as an eagle in the firmament of Heaven, he ſoareth aloft, and fixeth his eye upon the glories of the ſun.</p>
+                           <pb n="17" facs="unknown:022469_0015_0FB920A954AD1740"/>He riſeth like the palm-tree, in ſpite of oppreſſion; and, as an eagle in the firmament of Heaven, he ſoareth aloft, and fixeth his eye upon the glories of the ſun.</p>
                         <p>The examples of eminent men are in his viſions by night; and his delight is to follow them all the day long.</p>
                         <p>He formeth great deſigns, he rejoiceth in the execution there<g ref="char:EOLhyphen"/>of, and his name goeth forth to the ends of the world.</p>
                         <p>But the heart of the envious man is gall and bitterneſs; his tongue ſpitteth venom; the ſucceſs of his neighbour breaketh his reſt.</p>
@@ -415,7 +416,7 @@ in the city with praiſe, and that ſtandeth before the king in his counſel? Ev
                         <p>Boaſt not of thyſelf, for it ſhall bring contempt upon thee; neither deride another, for it is dangerous.</p>
                         <p>A bitter jeſt is the poiſon of friendſhip; and he who cannot reſtrain his tongue, ſhall have trouble.</p>
                         <p>
-                           <pb n="18" facs="tcp:022469_0016_0FB920AAD4A8F890"/>Furniſh thyſelf with the proper accommodations belonging to thy condition; yet ſpend not to the utmoſt of what thou canſt afford, that the providence of thy youth may be a comfort to thy old age.</p>
+                           <pb n="18" facs="unknown:022469_0016_0FB920AAD4A8F890"/>Furniſh thyſelf with the proper accommodations belonging to thy condition; yet ſpend not to the utmoſt of what thou canſt afford, that the providence of thy youth may be a comfort to thy old age.</p>
                         <p>Avarice is the parent of evil deeds; but frugality is the ſure guardian of our virtues.</p>
                         <p>Let thine own buſineſs engage thy attention; leave the care of the ſtate to the governors thereof.</p>
                         <p>Let not thy recreations be expenſive, leſt the pain of purchaſing them exceed the pleaſure thou haſt in their enjoyment.</p>
@@ -435,7 +436,7 @@ in the city with praiſe, and that ſtandeth before the king in his counſel? Ev
                         <p>PERILS, and misfortunes, and want, and pain, and in<g ref="char:EOLhyphen"/>jury, are more or leſs the certain lot of every man that cometh into the world.</p>
                         <p>It behoveth thee, therefore, O child of calamity! early to fortify thy mind with courage and patience, that thou mayeſt ſupport, with a becoming reſolution, thy allotted portion of human evil.</p>
                         <p>
-                           <pb n="19" facs="tcp:022469_0017_0FB920AC53CCA250"/>As the camel beareth labour, and heat, and hunger, and thirſt, through deſarts of ſand, and fainteth not; ſo the forti<g ref="char:EOLhyphen"/>tude of a man ſhall ſuſtain him through all perils.</p>
+                           <pb n="19" facs="unknown:022469_0017_0FB920AC53CCA250"/>As the camel beareth labour, and heat, and hunger, and thirſt, through deſarts of ſand, and fainteth not; ſo the forti<g ref="char:EOLhyphen"/>tude of a man ſhall ſuſtain him through all perils.</p>
                         <p>A noble ſpirit diſdaineth the malice of fortune; his greatneſs of ſoul is not to be caſt down.</p>
                         <p>He hath not ſuffered his happineſs to depend on her ſmiles, and therefore with her frowns he ſhall not be diſmayed.</p>
                         <p>As a rock on the ſea-ſhore he ſtandeth firm, and the daſhing of the waves diſturbeth him not.</p>
@@ -454,7 +455,7 @@ in the city with praiſe, and that ſtandeth before the king in his counſel? Ev
                         <p>Yet for all reaſonable deſires, for all honeſt endeavours, his benevolence hath eſtabliſhed, in the nature of things, a proba<g ref="char:EOLhyphen"/>bility of ſucceſs.</p>
                         <p>The uneaſineſs thou feeleſt, the misfortunes thou bewaileſt; behold the root from whence they ſpring! even thine own folly, thine own pride, thine own diſtempered fancy.</p>
                         <p>Murmur not therefore at the diſpenſations of God, but correct thine own heart: Neither ſay within thyſelf, if I had wealth,
-<pb n="20" facs="tcp:022469_0018_0FB920B5C9C5EC30"/>
+<pb n="20" facs="unknown:022469_0018_0FB920B5C9C5EC30"/>
 or power, or leiſure, I ſhould be happy; for know they all bring to their ſeveral poſſeſſors their peculiar inconveniencies.</p>
                         <p>The poor man ſeeth not the vexations and anxieties of the rich, he feeleth not the difficulties and perplexities of power, neither knoweth he the weariſomeneſs of leiſure; and therefore it is that he repineth at his own lot.</p>
                         <p>Envy not therefore the appear<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -476,7 +477,7 @@ or power, or leiſure, I ſhould be happy; for know they all bring to their ſev
                         <p>The joy which ſhe promiſeth changeth to madneſs, and her enjoyments lead on to diſeaſes and death.</p>
                         <p>Look round her board, caſt thine eyes upon her gueſts, and obſerve thoſe who have been allured by her ſmiles, who have liſtened to her temptations.</p>
                         <p>
-                           <pb n="21" facs="tcp:022469_0019_0FB920B6D3EC6EF0"/>Are they not meagre? are they not ſickly? are they not ſpiritleſs?</p>
+                           <pb n="21" facs="unknown:022469_0019_0FB920B6D3EC6EF0"/>Are they not meagre? are they not ſickly? are they not ſpiritleſs?</p>
                         <p>Their ſhort hours of jollity and riot, are followed by tedious hours of pain and dejection. She hath debauched and palled their appetites, that they have now no reliſh for her niceſt dain<g ref="char:EOLhyphen"/>ties; her votaries are become her victims; the juſt and natural conſequence which God hath ordained, in the conſtitution of things, for the puniſhment of thoſe who abuſe his gifts.</p>
                         <p>But who is ſhe that, with graceful ſteps, and with a lively air, trips over yonder plain?</p>
                         <p>The roſe bluſheth on her cheeks, the ſweetneſs of the morn<g ref="char:EOLhyphen"/>ing breatheth from her lips; joy, tempered with innocence and modeſty, ſparkleth in her eyes, and from the cheerfulneſs of her heart the ſingeth as ſhe walks.</p>
@@ -493,7 +494,7 @@ or power, or leiſure, I ſhould be happy; for know they all bring to their ſev
                         <p>She ſtandeth in her bower, ſhe courteth their regard, ſhe ſpreadeth her temptations.</p>
                         <p>Her limbs are ſoft, her air is delicate, her attire looſe and in<g ref="char:EOLhyphen"/>viting. Wantonneſs ſpeaketh in her eyes, and on her boſom ſits temptation. She beckoneth them with her finger, ſhe wooeth them with her looks, and by the ſmoothneſs of her tongue ſhe endeavoureth to deceive.</p>
                         <p>Ah! fly from her allurements, ſtop thine ears to her enchant<g ref="char:EOLhyphen"/>ing words. If thou meeteſt the languiſhing of her eyes, if thou
-<pb n="22" facs="tcp:022469_0020_0FB920B854A83540"/>
+<pb n="22" facs="unknown:022469_0020_0FB920B854A83540"/>
 heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe bindeth thee in chains for ever.</p>
                         <p>Shame followeth, and diſeaſe, and want, and care, and re<g ref="char:EOLhyphen"/>pentance.</p>
                         <p>Enfeebled by dalliance, with luxury pampered, and ſoftened by ſloth, ſtrength ſhall forſake thy limbs, and health thy conſti<g ref="char:EOLhyphen"/>tution. Thy days ſhall be few, and thoſe inglorious; thy griefs ſhall be many, yet meet with no compaſſion.</p>
@@ -513,7 +514,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>If thou believeſt a thing impoſſible, thy deſpondency ſhall make it ſo; but he that perſevereth, ſhall overcome all difficul<g ref="char:EOLhyphen"/>ties.</p>
                         <p>A vain hope flattereth the heart of a fool; but he that is wiſe, purſueth it not.</p>
                         <p>
-                           <pb n="23" facs="tcp:022469_0021_0FB920B9D4149C18"/>In all thy deſires, let reaſon go along with thee, and fix not thy hopes beyond the bounds of probability: So ſhall ſucceſs attend thy undertakings, and thy heart ſhall not be vexed with diſappointments.</p>
+                           <pb n="23" facs="unknown:022469_0021_0FB920B9D4149C18"/>In all thy deſires, let reaſon go along with thee, and fix not thy hopes beyond the bounds of probability: So ſhall ſucceſs attend thy undertakings, and thy heart ſhall not be vexed with diſappointments.</p>
                      </div>
                      <div n="2" type="chapter">
                         <head>CHAP. II. JOY and GRIEF.</head>
@@ -530,7 +531,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>All nature to her teemeth with evil, every object ſhe ſeeth is tinged with the gloom of her own mind, and the voice of com<g ref="char:EOLhyphen"/>plaint ſaddeneth her dwelling day and night.</p>
                         <p>Come not near her cell; her breath is contagious; ſhe will blaſt the fruits, and wither the flowers that adorn and ſweeten the garden of life.</p>
                         <p>
-                           <pb n="24" facs="tcp:022469_0022_0FB920BBD255E4B8"/>In avoiding the houſe of joy, let not thy feet betray thee to the borders of this diſmal manſion; but purſue with care the middle path, which ſhall lead thee, by a gentle aſcent, to the bower of tranquility.</p>
+                           <pb n="24" facs="unknown:022469_0022_0FB920BBD255E4B8"/>In avoiding the houſe of joy, let not thy feet betray thee to the borders of this diſmal manſion; but purſue with care the middle path, which ſhall lead thee, by a gentle aſcent, to the bower of tranquility.</p>
                         <p>With her dwelleth peace, with her dwelleth ſafety and con<g ref="char:EOLhyphen"/>tentment. She is cheerful, but not gay; ſhe is ſerious, but not grave: ſhe vieweth the joys and ſorrows of life, with an equal and ſteady eye.</p>
                         <p>From hence, as from an eminence, ſhalt thou behold the folly and the miſery of thoſe, who, either led by the gaiety of their hearts, take up their abode with the companions of jollity and riotous mirth; or, infected by gloomineſs and melancholy, ſpend all their days in complaining of the woes and calamities of human life.</p>
                         <p>Thou ſhalt view them both with pity, and the error of their ways ſhall keep thy feet from ſtraying.</p>
@@ -547,7 +548,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>Do nothing in a paſſion. Why wilt thou put to ſea in the violence of a ſtorm?</p>
                         <p>If it be difficult to rule thine anger, it is wiſe to prevent it; avoid therefore all occaſions of falling into wrath, or guard thy<g ref="char:EOLhyphen"/>ſelf againſt them whenever they occur.</p>
                         <p>
-                           <pb n="25" facs="tcp:022469_0023_0FB920C21440A588"/>A fool is provoked with inſolent ſpeeches, but a wiſe man laugheth them to ſcorn.</p>
+                           <pb n="25" facs="unknown:022469_0023_0FB920C21440A588"/>A fool is provoked with inſolent ſpeeches, but a wiſe man laugheth them to ſcorn.</p>
                         <p>Harbour not revenge in thy breaſt; it will torment thy heart, and diſcolour its beſt inclinations.</p>
                         <p>Be always more ready to forgive, than to return an injury: He that watches for an opportunity of revenge, lieth in wait againſt himſelf, and draweth down miſchief on his own head.</p>
                         <p>A mild anſwer to an angry man, like water caſt upon the fire, abateth his heat, and from an enemy he ſhall become thy friend.</p>
@@ -565,7 +566,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>When the fatherleſs call upon thee, when the widow's heart is ſunk, and ſhe imploreth thy aſſiſtance with tears of ſorrow; O! pity her affliction, and extend thy hand to thoſe who have none to help them.</p>
                         <p>When thou ſeeſt the naked wanderer of the ſtreet, ſhivering with cold, and deſtitute of habitation; let bounty open thine heart, let the wings of charity ſhelter him from death, that thine own ſoul may live.</p>
                         <p>
-                           <pb n="26" facs="tcp:022469_0024_0FB920C39422D8A0"/>Whilſt the poor man groaneth on the bed of ſickneſs, whilſt the unfortunate languiſh in the horrors of a dungeon, or the hoary head of age lifts up a feeble eye to thee for pity; O! how canſt thou riot in ſuperfluous enjoyments, regardleſs of their wants, unfeeling of their woes?</p>
+                           <pb n="26" facs="unknown:022469_0024_0FB920C39422D8A0"/>Whilſt the poor man groaneth on the bed of ſickneſs, whilſt the unfortunate languiſh in the horrors of a dungeon, or the hoary head of age lifts up a feeble eye to thee for pity; O! how canſt thou riot in ſuperfluous enjoyments, regardleſs of their wants, unfeeling of their woes?</p>
                      </div>
                      <div n="5" type="chapter">
                         <head>CHAP. V. DESIRE and LOVE.</head>
@@ -582,7 +583,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                      </div>
                   </div>
                   <div n="3" type="book">
-                     <pb n="27" facs="tcp:022469_0025_0FB920C51429ED20"/>
+                     <pb n="27" facs="unknown:022469_0025_0FB920C51429ED20"/>
                      <head>BOOK III. WOMAN.</head>
                      <p>GIVE ear, fair daughter of love! to the inſtructions of prudence, and let the precepts of truth ſink deep in thy heart: So ſhall the charms of thy mind add luſtre to the elegance of thy form; and thy beauty, like the roſe it reſembleth, ſhall retain its ſweetneſs when its bloom is withered.</p>
                      <p>In the ſpring of thy youth, in the morning of thy days; when the eyes of men gaze on thee with delight, and nature whiſpereth in thine ear the meaning of their looks: Ah! hear with caution their ſeducing words, guard well thy heart, nor liſten to their ſoft perſuaſions.</p>
@@ -599,7 +600,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                      <p>The tongue of the licentious is dumb in her preſence, the awe of her virtue keepeth him ſilent.</p>
                      <p>When ſcandal is buſy, and the fame of her neighbour is toſſed from tongue to tongue; if charity and good-nature open not her mouth, the finger of ſilence reſteth on her lip.</p>
                      <p>
-                        <pb n="28" facs="tcp:022469_0026_0FB920C695029210"/>Her breaſt is the manſion of goodneſs, and therefore ſhe ſuſ<g ref="char:EOLhyphen"/>pecteth no evil in others.</p>
+                        <pb n="28" facs="unknown:022469_0026_0FB920C695029210"/>Her breaſt is the manſion of goodneſs, and therefore ſhe ſuſ<g ref="char:EOLhyphen"/>pecteth no evil in others.</p>
                      <p>Happy is the man that ſhall make her his wife; happy the child that ſhall call her mother.</p>
                      <p>She preſideth in the houſe, and there is peace; ſhe command<g ref="char:EOLhyphen"/>eth with judgment, and is obeyed.</p>
                      <p>She ariſeth in the morning, ſhe conſiders her affairs, and ap<g ref="char:EOLhyphen"/>pointeth to every one their proper buſineſs.</p>
@@ -620,7 +621,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>TAKE unto thyſelf a wife, and obey the ordinance of God: Take unto thyſelf a wiſe, and become a faithful member of ſociety.</p>
                         <p>But examine with care, and fix not ſuddenly. On thy preſent choice depends thy future happineſs.</p>
                         <p>
-                           <pb n="29" facs="tcp:022469_0027_0FB920C899044818"/>If much of her time is deſtroyed in dreſs and adornments; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <pb n="29" facs="unknown:022469_0027_0FB920C899044818"/>If much of her time is deſtroyed in dreſs and adornments; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap> ſhe i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -648,7 +649,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>Prepare him early with inſtruction, and ſeaſon his mind with the maxims of truth.</p>
                         <p>Watch the bent of his inclination, ſet him right in his youth, and let no evil habit gain ſtrength with his years.</p>
                         <p>
-                           <pb n="30" facs="tcp:022469_0028_0FB920C994590BA0"/>So ſhall he riſe like a cedar on the mountains; his head ſhall be ſeen above the trees of the foreſt.</p>
+                           <pb n="30" facs="unknown:022469_0028_0FB920C994590BA0"/>So ſhall he riſe like a cedar on the mountains; his head ſhall be ſeen above the trees of the foreſt.</p>
                         <p>A wicked ſon is a reproach to his father; but he that doeth right, is an honour to his grey hairs.</p>
                         <p>The ſoil is thine own, let it not want cultivation; the ſeed which thou ſoweſt, that alſo ſhalt thou reap.</p>
                         <p>Teach him obedience, and he ſhall bleſs thee; teach him modeſty, and he ſhall not be aſhamed.</p>
@@ -672,7 +673,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>So ſhall their hoary heads go down to the grave in peace, and thine own children, in reverence of thy example, ſhall repay thy piety with filial love.</p>
                      </div>
                      <div n="4" type="chapter">
-                        <pb n="31" facs="tcp:022469_0029_0FB920CB1413E868"/>
+                        <pb n="31" facs="unknown:022469_0029_0FB920CB1413E868"/>
                         <head>CHAP. IV. BROTHERS.</head>
                         <p>YE are the children of one father, provided for by his care, and the breaſt of one mother hath given you ſuck.</p>
                         <p>Let the bonds of affection, therefore, unite thee with thy bro<g ref="char:EOLhyphen"/>thers, that peace and happineſs may dwell in thy father's houſe.</p>
@@ -690,7 +691,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>True wiſdom is leſs preſuming than folly. The wiſe man doubteth often, and changeth his mind: The fool is obſtinate, and doubteth not; he knoweth all things, but his own ignorance.</p>
                         <p>The pride of emptineſs is an abomination; and to talk much, is the fooliſhneſs of folly: Nevertheleſs, it is the part of wiſdom to bear the impertinence of fools, to hear their abſurdities with patience, and pity their weakneſs.</p>
                         <p>
-                           <pb n="32" facs="tcp:022469_0030_0FB920CC95091DD8"/>Yet be not puffed up in thine own conceit, neither boaſt of ſuperior underſtanding; the cleareſt human knowledge is but blindneſs and folly.</p>
+                           <pb n="32" facs="unknown:022469_0030_0FB920CC95091DD8"/>Yet be not puffed up in thine own conceit, neither boaſt of ſuperior underſtanding; the cleareſt human knowledge is but blindneſs and folly.</p>
                         <p>The wiſe man feeleth his imperfections, and is humbled; he laboureth in vain for his own approbation. But the fool peepeth in the ſhallow ſtream of his own mind, and is pleaſed with the pebbles which he ſeeth at the bottom: He bringeth them up, and ſheweth them as pearls; and with the applauſe of his brethren, delighteth he himſelf.</p>
                         <p>He boaſteth of attainments in things that are of no worth; but where it is a ſhame to be ignorant, there he hath no under<g ref="char:EOLhyphen"/>ſtanding.</p>
                         <p>Even in the paths of wiſdom, he toileth after folly; and ſhame and diſappointment are the reward of his labour.</p>
@@ -708,7 +709,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>He conſidereth the ſuperfluities of his table, as belonging to the poor of his neighbourhood, and he defraudeth them not.</p>
                         <p>The benevolence of his mind is not checked by his fortune; he rejoiceth therefore in riches, and his joy is blameleſs.</p>
                         <p>
-                           <pb n="33" facs="tcp:022469_0031_0FB920CE14332C50"/>But woe unto him that heapeth up wealth in abundance, and rejoiceth alone in the poſſeſſion thereof;</p>
+                           <pb n="33" facs="unknown:022469_0031_0FB920CE14332C50"/>But woe unto him that heapeth up wealth in abundance, and rejoiceth alone in the poſſeſſion thereof;</p>
                         <p>That grindeth the face of the poor, and conſidereth not the ſweat of their brows;</p>
                         <p>He thriveth on oppreſſion without feeling; the ruin of his brother diſturbeth him not.</p>
                         <p>The tears of the orphan he drinketh as milk, the cries of the widow are muſic to his ear.</p>
@@ -728,7 +729,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <head>CHAP. III. MASTERS and SERVANTS.</head>
                         <p>REPINE not, O man! at the ſtate of ſervitude; It is the appointment of God, and hath many advantages; it re<g ref="char:EOLhyphen"/>moveth thee from the cares and ſolicitudes of life.</p>
                         <p>
-                           <pb n="34" facs="tcp:022469_0032_0FB920CF942E32E0"/>The honour of a ſervant is his fidelity; his higheſt virtues are ſubmiſſion and obedience.</p>
+                           <pb n="34" facs="unknown:022469_0032_0FB920CF942E32E0"/>The honour of a ſervant is his fidelity; his higheſt virtues are ſubmiſſion and obedience.</p>
                         <p>Be patient, therefore, under the reproofs of thy maſter; and when he rebuketh thee, anſwer not again. The ſilence of thy reſignation ſhall not be forgotten.</p>
                         <p>Be ſtudious of his intereſts, be diligent in his affairs, and faithful to the truſt which he repoſeth in thee.</p>
                         <p>Thy time and thy labour belong unto him. Defraud him not thereof, for he payeth thee for them.</p>
@@ -745,7 +746,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>The mind of a great prince, is exalted with grandeur of his ſituation; he revolveth high things, and ſearcheth for buſineſs worthy of his power.</p>
                         <p>He calleth together the wiſe men of his kingdom, he conſult<g ref="char:EOLhyphen"/>eth among them with freedom, and heareth the opinions of them all.</p>
                         <p>
-                           <pb n="35" facs="tcp:022469_0033_0FB920D175637330"/>He looketh among his people with diſcernment: He diſco<g ref="char:EOLhyphen"/>vereth the abilities of men, and employeth them according to their merits.</p>
+                           <pb n="35" facs="unknown:022469_0033_0FB920D175637330"/>He looketh among his people with diſcernment: He diſco<g ref="char:EOLhyphen"/>vereth the abilities of men, and employeth them according to their merits.</p>
                         <p>His magiſtrates are juſt, his miniſters are wiſe, and the fa<g ref="char:EOLhyphen"/>vourite of his boſom deceiveth him not.</p>
                         <p>He ſmileth on the arts, and they flouriſh; the ſciences im<g ref="char:EOLhyphen"/>prove beneath the culture of his hand.</p>
                         <p>With the learned and ingenious he deligheth himſelf; he k<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -764,7 +765,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                      </div>
                   </div>
                   <div n="6" type="book">
-                     <pb n="36" facs="tcp:022469_0034_0FB920D2949326A0"/>
+                     <pb n="36" facs="unknown:022469_0034_0FB920D2949326A0"/>
                      <head>BOOK VI. The SOCIAL DUTIES.</head>
                      <div n="1" type="chapter">
                         <head>CHAP. I. BENEVOLENCE.</head>
@@ -785,7 +786,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>Keep the deſires of thy heart, therefore, within the bounds of moderation; let the hand of juſtice lead them aright.</p>
                         <p>Caſt not an evil eye on the goods of thy neighbour; let what<g ref="char:EOLhyphen"/>ever is his property, be ſacred from thy touch.</p>
                         <p>
-                           <pb n="37" facs="tcp:022469_0035_0FB920D4142B1600"/>Let not temptation allure, nor any provocation excite thee, to lift up thy hand to the hazard of his life.</p>
+                           <pb n="37" facs="unknown:022469_0035_0FB920D4142B1600"/>Let not temptation allure, nor any provocation excite thee, to lift up thy hand to the hazard of his life.</p>
                         <p>Defame him not in his character; bear no falſe witneſs againſt him.</p>
                         <p>Corrupt not his ſervants to cheat or forſake him; and the wife of his boſom, O tempt not to ſin.</p>
                         <p>It will be a grief to his heart, which thou canſt not relieve; an injury to his life, which no reparation can a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -807,7 +808,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <p>He forgiveth the injuries of men, he wipeth them from his remembrance; revenge and malice have no place in his heart.</p>
                         <p>For evil he returneth not evil; he hateth not even his enemies, but requiteth their injuſtice with friendly admonition.</p>
                         <p>
-                           <pb n="38" facs="tcp:022469_0036_0FB920D594096500"/>The griefs and anxieties of men excite his compaſſion; he endeavoureth to alleviate the weight of their misfortunes, and the pleaſure of ſucceſs rewardeth his labour.</p>
+                           <pb n="38" facs="unknown:022469_0036_0FB920D594096500"/>The griefs and anxieties of men excite his compaſſion; he endeavoureth to alleviate the weight of their misfortunes, and the pleaſure of ſucceſs rewardeth his labour.</p>
                         <p>He calmeth the fury, he heareth the quarrels of angry men, and preventeth the miſchiefs of ſtrife and animoſity.</p>
                         <p>He promoteth in his neighbourhood, peace and good-will, and his name is repeated with praiſe and benedictions.</p>
                      </div>
@@ -830,7 +831,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         <head>CHAP. V. SINCERITY.</head>
                         <p>O THOU who art enamoured with the beauties of truth, and haſt fixed thy heart on the ſimplicity of her charms! hold faſt thy fidelity unto her, and forſake her not; the conſtancy of thy virtue ſhall crown thee with honour.</p>
                         <p>
-                           <pb n="39" facs="tcp:022469_0037_0FB920D714146568"/>The tongue of the ſincere is rooted in his heart; hypocriſy and deceit have no place in his words.</p>
+                           <pb n="39" facs="unknown:022469_0037_0FB920D714146568"/>The tongue of the ſincere is rooted in his heart; hypocriſy and deceit have no place in his words.</p>
                         <p>He bluſheth at falſhood, and is confounded; but in ſpeaking the truth, he hath a ſteady eye.</p>
                         <p>He ſupporteth, as a man, the dignity of his character; to the arts of hypocriſy he ſcorneth to ſtoop.</p>
                         <p>He is conſiſtent with himſelf; he is never embarraſſed; he hath courage enough for truth, but to lye he is afraid.</p>
@@ -854,7 +855,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                         </gap>comprehen<g ref="char:EOLhyphen"/>ſible.</p>
                      <p>The ſun is not God, though his nobleſt Image. He enlight<g ref="char:EOLhyphen"/>eneth the world with his brightneſs, his warmth giveth life to the products of the earth: Admire him as the creature, the inſtrument of God; but worſhip him not.</p>
                      <p>
-                        <pb n="40" facs="tcp:022469_0038_0FB920D89680E128"/>To the One who is ſupreme, moſt wiſe and beneficent, and to him alone, belong worſhip, adoration, thankſgiving, and praiſe.</p>
+                        <pb n="40" facs="unknown:022469_0038_0FB920D89680E128"/>To the One who is ſupreme, moſt wiſe and beneficent, and to him alone, belong worſhip, adoration, thankſgiving, and praiſe.</p>
                      <p>Who has ſtretched forth the Heavens with his hand, who hath deſcribed with his finger the courſes of the ſtars.</p>
                      <p>Who ſetteth bounds to the ocean, that it cannot paſs; and ſaith unto the ſtormy winds, Be ſtill.</p>
                      <p>Who ſhaketh the earth, and the nations tremble; who darteth his lightnings, and the wicked are diſmayed.</p>
@@ -879,7 +880,7 @@ heareſt the ſoftneſs of her voice, if ſhe caſteth her arms about thee, ſhe
                      <p>If we lift up our eyes to the Heavens, his glory ſhineth forth; if we caſt them down upon the earth, it is full of his goodneſs: The hills and the valleys rejoice and ſing; fields, rivers, and woods, reſound his praiſe.</p>
                      <p>But thee, O man! he hath diſtinguiſhed with peculiar favour; and exalted thy ſtation above all creatures.</p>
                      <p>He hath endued thee with reaſon, to maintain thy dominion; he hath fitted thee with language, to improve by ſociety, and
-<pb n="41" facs="tcp:022469_0039_0FB920DAECE61460"/>
+<pb n="41" facs="unknown:022469_0039_0FB920DAECE61460"/>
 exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> meditation, to contemplate and adore his inimitable perfections.</p>
@@ -906,13 +907,14 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:022469_0040_0FB920DC544F6EB0" rendition="simple:additions"/>
+                  <pb facs="unknown:022469_0040_0FB920DC544F6EB0"
+                      rendition="simple:additions"/>
                   <p>THE Oeconomy of Human Life, PART THE SECOND: TRANSLATED FROM AN INDIAN MANUSCRIPT, Found ſoon after that which contained the Original of the <hi>FIRST PART,</hi> And written by the ſame Hand.</p>
                   <p>IN A SECOND LETTER FROM An ENGLISH GENTLEMAN reſiding at CHINA, TO THE EARL OF *******.</p>
                   <p>NEW-YORK: PRINTED AND SOLD BY HUGH GAINE, AT THE BIBLE, IN HANOVER-SQUARE. M,DCC,XC.</p>
                </div>
                <div type="preface">
-                  <pb facs="tcp:022469_0041_0FB920DDD4F30598"/>
+                  <pb facs="unknown:022469_0041_0FB920DDD4F30598"/>
                   <head>To the Right Honourable THE EARL OF * * * * * * *.</head>
                   <opener>
                      <dateline>Peking,
@@ -934,7 +936,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
             </front>
             <body>
                <div type="text">
-                  <pb facs="tcp:022469_0042_0FB920DF54229638"/>
+                  <pb facs="unknown:022469_0042_0FB920DF54229638"/>
                   <head>THE Oeconomy of Human Life. PART SECOND.</head>
                   <div n="1" type="book">
                      <head>BOOK I. MAN conſidered in the general.</head>
@@ -949,7 +951,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>Thy body remaineth perfect after it is fled, therefore it is no part of it: It is immaterial, therefore it is eternal: It is free to act, therefore it is accountable for its actions.</p>
                         <p>Knoweth the aſs the uſe of food, becauſe his teeth mow down the herbage? or ſtandeth the crocodile erect, although his back<g ref="char:EOLhyphen"/>bone is ſtreight as thine?</p>
                         <p>
-                           <pb n="48" facs="tcp:022469_0043_0FB920E0D419F348"/>God formed thee as he had formed theſe: After them all wert thou created: ſuperiority and command were given thee over all, and of his own breath did he communicate to thee thy principle of knowledge.</p>
+                           <pb n="48" facs="unknown:022469_0043_0FB920E0D419F348"/>God formed thee as he had formed theſe: After them all wert thou created: ſuperiority and command were given thee over all, and of his own breath did he communicate to thee thy principle of knowledge.</p>
                         <p>Know thyſelf then, the pride of his creation, the like uniting divinity and matter! Behold a part of God himſelf within thee! Remember thine own dignity, nor dare deſcend to evil or to meanneſs.</p>
                         <p>Who planted terror in the tail of the ſerpent? who clothed the neck of the horſe with thunder? Even he who hath inſtructed thee to cruſh the one under thy feet, and tame the other to thy purpoſes.</p>
                      </div>
@@ -965,7 +967,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>Is not thy noſe the channel to perfumes? thy mouth the path to delicacies? Yet know thou, that perfumes long ſmelt become offenſive, that delicacies deſtroy the appetite they flatter.</p>
                         <p>Are not thine eyes the centinels that watch for thee? Yet how often are they unable to diſtinguiſh truth from error?</p>
                         <p>
-                           <pb n="49" facs="tcp:022469_0044_0FB920E255F77960"/>Keep thy ſoul in moderation, teach thy ſpirit to be attentive to its good; ſo ſhall theſe, its miniſters, be always to thee con<g ref="char:EOLhyphen"/>veyances of truth.</p>
+                           <pb n="49" facs="unknown:022469_0044_0FB920E255F77960"/>Keep thy ſoul in moderation, teach thy ſpirit to be attentive to its good; ſo ſhall theſe, its miniſters, be always to thee con<g ref="char:EOLhyphen"/>veyances of truth.</p>
                         <p>Thine hand, is it not a miracle? Is there in the creation aught like unto it? wherefore was it given thee, but that thou mighteſt ſtretch it out to the aſſiſtance of thy brother?</p>
                         <p>Why of all things living art thou alone made capable of bluſh<g ref="char:EOLhyphen"/>ing? The world ſhall read thy ſhame upon thy face; therefore do nothing ſhameful.</p>
                         <p>Fear and diſmay, why rob they thy countenance of its ruddy ſplendor? Avoid guilt, and thou ſhalt know that fear is beneath thee; that diſmay is unmanly.</p>
@@ -981,7 +983,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>Search it by its faculties, know it by its virtues. They are more in number than the hairs of thy head; the ſtars of Heaven are not to be counted with them.</p>
                         <p>Think not with Arabia, that one ſoul is parted among all men; neither believe thou with the ſons of Egypt, that every man hath many: Know, that as thy heart, ſo alſo thy ſoul is one.</p>
                         <p>
-                           <pb n="50" facs="tcp:022469_0045_0FB920E6F508B0D0"/>Doth not the ſun harden the clay? Doth it not alſo ſoften the wax? As it is one ſun that worketh both, even ſo it is one ſoul that willeth contraries.</p>
+                           <pb n="50" facs="unknown:022469_0045_0FB920E6F508B0D0"/>Doth not the ſun harden the clay? Doth it not alſo ſoften the wax? As it is one ſun that worketh both, even ſo it is one ſoul that willeth contraries.</p>
                         <p>As the moon retaineth her nature, though darkneſs ſpread itſelf before her face as a curtain; ſo the ſoul remaineth perfect, even in the boſom of the fool.</p>
                         <p>She is immortal; ſhe is unchangeable; ſhe is alike in all. Health calleth her forth to ſhew her livelineſs, and application anointeth her with the oil of wiſdom.</p>
                         <p>Although ſhe ſhall live after thee, think not ſhe was born before thee. She was concreated with thy fleſh, and formed with thy brain.</p>
@@ -997,7 +999,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>Remember thou its dignity for ever; forget not how great a talent is committed to thy charge.</p>
                         <p>Whatſoever may do good, may alſo do harm. Beware that thou direct its courſe to virtue.</p>
                         <p>
-                           <pb n="51" facs="tcp:022469_0046_0FB920E854F63DD0"/>Think not that thou canſt loſe her in the croud; ſuppoſe not that thou canſt bury her in thy cloſet. Action is her delight, and ſhe will not be with-held from it.</p>
+                           <pb n="51" facs="unknown:022469_0046_0FB920E854F63DD0"/>Think not that thou canſt loſe her in the croud; ſuppoſe not that thou canſt bury her in thy cloſet. Action is her delight, and ſhe will not be with-held from it.</p>
                         <p>Her motion is perpetual; her attempts are univerſal; her agility is not to be ſuppreſſed. Is it at the uttermoſt part of the earth? ſhe will have it: Is it beyond the region of the ſtars? yet will her eye diſcover it.</p>
                         <p>Enquiry is her delight. As one who traverſeth the burning ſands in ſearch of water, ſo is the ſoul that thirſteth after knowledge.</p>
                         <p>Guard her, for ſhe is raſh; reſtrain her, for ſhe is irregular; correct her, for ſhe is outrageous: More ſupple is ſhe than water, more flexible than wax, more yielding than air. Is there aught that can bind her?</p>
@@ -1013,7 +1015,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>Learn to eſteem life as it ought; then art thou near the pin<g ref="char:EOLhyphen"/>nacle of wiſdom.</p>
                         <p>Think not with the fool, that nothing is more valuable; nor believe with the pretended wiſe, that thou oughteſt to contemn it. Love it not for itſelf, but for the good it may be of to others.</p>
                         <p>
-                           <pb n="52" facs="tcp:022469_0047_0FB920E9D41EA668"/>Gold cannot buy it for thee, neither can mines of diamonds purchaſe back the moment thou haſt now loſt of it. Employ the ſucceeding ones in virtue.</p>
+                           <pb n="52" facs="unknown:022469_0047_0FB920E9D41EA668"/>Gold cannot buy it for thee, neither can mines of diamonds purchaſe back the moment thou haſt now loſt of it. Employ the ſucceeding ones in virtue.</p>
                         <p>Say not, that it were beſt not to have been born; or, if born, that it had been beſt to die early: Neither dare thou to aſk of thy Creator, where had been the evil, had I not exiſted? Good is in thy power; the want of good is evil; and, if thy queſtion be juſt, lo! it condemneth thee.</p>
                         <p>Would the fiſh ſwallow the bait, if he knew the hook was hid therein? would the lion enter the toils, if he ſaw they were prepared for him? So neither, were the ſoul to perſh with this clay would man wiſh to live; neither would a merciful God have created him: Know hence thou ſhalt live afterward.</p>
                         <p>As the bird encloſed in the cage before he ſeeth it, yet teare h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1028,7 +1030,7 @@ exalted thy mind with the powers o<gap reason="illegible" resp="#PDCC" extent="1
                         <p>He who gave thee life as a bleſſing, ſhortened it to make it more ſo. To what end would longer life have ſerved thee? Wiſheſt thou to have had an opportunity of more vices? As to the good, will not he who limited thy ſpan, be ſatisfied with the fruits of it?</p>
                         <p>To what end, O child of ſorrow! wouldſt thou live longer? To breathe, to eat, to ſee the world? All this thou haſt done often already. Too frequent repetition, is it not tireſome? or, is it not ſuperfluous?</p>
                         <p>Wouldeſt thou improve thy wſdom and thy virtue? Alas! what art thou to know? or who is it that ſhall teach thee? Badly
-<pb n="53" facs="tcp:022469_0048_0FB920EB55EC3A78"/>
+<pb n="53" facs="unknown:022469_0048_0FB920EB55EC3A78"/>
 thou employeſt the little thou haſt: Dare not therefore to complain that more is not given thee.</p>
                         <p>Repine not at the want of knowledge; it muſt periſh with thee in the grave. Be honeſt here, thou ſhalt be wiſe hereafter.</p>
                         <p>Say not unto the crow, why numbreſt thou ſeven times the age or thy lord? or to the fawn, Why are thine eyes to ſee my offspring to an hundreth generations? Are theſe to be compared with thee in the abuſe of life? are they riotous? are they cruel? are they ungrateful? Learn from them rather, that innocence of life and ſimplicity of manners are the paths to a good old age.</p>
@@ -1043,7 +1045,7 @@ thou employeſt the little thou haſt: Dare not therefore to complain that more 
                         <p>Fools, to dread as mortals, and to deſire as if immortal.</p>
                         <p>What part of life is it we would wiſh to remain with us? Is it youth! Can we be in love with outrage, licenciouſneſs and temerity? Is it age? then are we fond of infirmities.</p>
                         <p>It is ſaid, grey hairs are revered, and in length of days is honour. Virtue can add reverence to the bloom of youth; and
-<pb n="54" facs="tcp:022469_0049_0FB920ED45444C10"/>
+<pb n="54" facs="unknown:022469_0049_0FB920ED45444C10"/>
 without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Is age reſpected becauſe it hateth riot? What juſtice is in this, when it is not age deſpiſeth pleaſure, but pleaſure that deſpiſeth age?</p>
                         <p>Be virtuous while thou art young, ſo ſhall thine age be honoured.</p>
@@ -1061,7 +1063,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>What blindeth the eye, or what hideth the heart of a man from himſelf, like vanity? Lo! when thou ſeeſt not thyſelf, then others diſcover thee moſt plainly.</p>
                         <p>As the tulip that is gaudy without ſmell, conſpicuous without uſe; ſo is the man who ſetteth himſelf up on high, and hath not merit.</p>
                         <p>
-                           <pb n="55" facs="tcp:022469_0050_0FB920EFD59EE598"/>The heart of the vain is troubled, while it ſeemeth content; his cares are greater than his pleaſures.</p>
+                           <pb n="55" facs="unknown:022469_0050_0FB920EFD59EE598"/>The heart of the vain is troubled, while it ſeemeth content; his cares are greater than his pleaſures.</p>
                         <p>His ſolicitude cannot reſt with his bones; the grave is not deep enough to hide it: He extendeth his thoughts beyond his being; he beſpeaketh praiſe to be paid when he is gone: But who<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
                            </gap> promiſeth it, deceiveth him.</p>
@@ -1084,7 +1086,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>The heart of man cannot attend at once to many things. He who fixeth his ſoul on ſhew, loſeth reality. He purſueth bubbles, which break in their flight, while he treads to earth what would do him honor.</p>
                      </div>
                      <div n="2" type="chapter">
-                        <pb n="56" facs="tcp:022469_0051_0FB920F155E65A90"/>
+                        <pb n="56" facs="unknown:022469_0051_0FB920F155E65A90"/>
                         <head>CHAP. II. INCONSTANCY.</head>
                         <p>NATURE urgeth thee to inconſtancy, O man! There<g ref="char:EOLhyphen"/>fore, guard thyſelf at all times againſt it.</p>
                         <p>Thou art, from the womb of thy mother, various and waver<g ref="char:EOLhyphen"/>ing. From the loins of thy father, inheriteſt thou inſtability: How then ſhalt thou be firm?</p>
@@ -1103,7 +1105,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>The inconſtant hath no peace in his ſoul; neither can any be at eaſe, whom he concerneth himſelf with.</p>
                         <p>His life is unequal; his motions are irregular; his ſoul changeth like the weather.</p>
                         <p>
-                           <pb n="57" facs="tcp:022469_0052_0FB920F394166908"/>To-day he loveth thee, to-morrow thou art deteſted by him: And why? himſelf knoweth not wherefore he loved, or where<g ref="char:EOLhyphen"/>fore he now hateth.</p>
+                           <pb n="57" facs="unknown:022469_0052_0FB920F394166908"/>To-day he loveth thee, to-morrow thou art deteſted by him: And why? himſelf knoweth not wherefore he loved, or where<g ref="char:EOLhyphen"/>fore he now hateth.</p>
                         <p>To-day he is the tyrant, to-morrow thy ſervant is leſs hum<g ref="char:EOLhyphen"/>ble: And why? he who is arrogant without power, will be ſervile where there is no ſubjection.</p>
                         <p>To-day he is profuſe, to-morrow he grudgeth unto his mouth, that which it ſhould eat: Thus it is with him who knoweth not moderation.</p>
                         <p>Who ſhall ſay of the cameleon, He is black, when, the mo<g ref="char:EOLhyphen"/>ment after, the verdure of the graſs overſpreadeth him.</p>
@@ -1119,7 +1121,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>He marcheth through the embattled legions; with his hand he putteth aſide the terrors of death.</p>
                         <p>Storms roar againſt his ſhoulders, but are not able to ſhake them; the thunder burſteth over his head in vain; the lightning ſerveth but to ſhew the glories of his countenance.</p>
                         <p>
-                           <pb n="58" facs="tcp:022469_0053_0FB920F51DF5C8D8"/>His name is reſolution! He commandeth from the utmoſt part of the earth; he ſeeth happineſs afar off before him; his eye diſcovereth her temple beyond the limits of the pole.</p>
+                           <pb n="58" facs="unknown:022469_0053_0FB920F51DF5C8D8"/>His name is reſolution! He commandeth from the utmoſt part of the earth; he ſeeth happineſs afar off before him; his eye diſcovereth her temple beyond the limits of the pole.</p>
                         <p>He walketh up to it, he entereth boldly, and he remaineth there forever.</p>
                         <p>Eſtabliſh thy heart, O man! in that which is right; and then know the greateſt of human praiſe is to be immutable.</p>
                      </div>
@@ -1134,7 +1136,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>When it is gone, thou repenteſt the loſs of it; though while it was with thee, thou deſpiſedſt it.</p>
                         <p>That which ſucceedeth it, hath no more pleaſure for thee; and thou afterwards quarrelleſt with thyſelf for preferring it: Behold the only circumſtance in which thou erreſt not!</p>
                         <p>
-                           <pb n="59" facs="tcp:022469_0054_0FB920F753F28D58"/>Is there any thing in which thy weakneſs appeareth more than in deſiring things? It is in the poſſeſſing, and in the uſing them.</p>
+                           <pb n="59" facs="unknown:022469_0054_0FB920F753F28D58"/>Is there any thing in which thy weakneſs appeareth more than in deſiring things? It is in the poſſeſſing, and in the uſing them.</p>
                         <p>Good things ceaſe to be good in our enjoyment of them. What nature meant pure ſweets, are ſources of bitterneſs to us; from our delights ariſe pain; from our joys, ſorrow.</p>
                         <p>Be moderate in the enjoyment, and it ſhall remain in thy poſſeſſion; let thy joys be founded on reaſon, and to its end ſhall ſorrow be a ſtranger.</p>
                         <p>The delights of love are uſhered in by ſighs, and they ter<g ref="char:EOLhyphen"/>minate in languiſhment and dejection. The object thou burn<g ref="char:EOLhyphen"/>edſt for, na<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1155,7 +1157,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                            </gap> to thee, and the end ſhall be always right.</p>
                      </div>
                      <div n="4" type="chapter">
-                        <pb n="60" facs="tcp:022469_0055_0FB920F8D4111D90"/>
+                        <pb n="60" facs="unknown:022469_0055_0FB920F8D4111D90"/>
                         <head>CHAP. IV. Of the INSUFFICIENCY of KNOWLEDGE.</head>
                         <p>IF there is any thing lovely, if there is any thing deſireable, if there is any thing within the reach of man that is worthy of praiſe, is it not knowledge? and yet who is it that attaineth unto it?</p>
                         <p>The ſtateſman proclaimeth that he hath it; the ruler of the people claimeth the praiſe of it; but findeth the ſubject, that he poſſeſſeth it.</p>
@@ -1172,7 +1174,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>That thou mayeſt not kill him without cauſe, thou doſt worſe than kill him: That thou mayeſt prove if he be guilty, thou deſtroyeſt him innocent.</p>
                         <p>O blindneſs to all truth! O inſufficiency of the wiſdom of the wiſe! Know, when thy judge ſhall bid thee account for this, thou ſhalt wiſh ten thouſand guilty to have gone free, rather than one innocent then to ſtand forth againſt thee.</p>
                         <p>
-                           <pb n="61" facs="tcp:022469_0056_0FB920FA5423AB90"/>Inſufficient as thou art to the maintenance of juſtice, how ſhalt thou arrive at the knowledge of truth? how ſhalt thou aſcend to the footſtep of her throne?</p>
+                           <pb n="61" facs="unknown:022469_0056_0FB920FA5423AB90"/>Inſufficient as thou art to the maintenance of juſtice, how ſhalt thou arrive at the knowledge of truth? how ſhalt thou aſcend to the footſtep of her throne?</p>
                         <p>As the owl is blinded by the radiance of the ſun, ſo ſhall the brightneſs of her countenance dazzle thee in thy approaches.</p>
                         <p>If thou wouldſt mount up into her throne, firſt bow thyſelf at her footſtool: If thou wouldſt arrive at the knowledge of her, firſt inform thyſelf of thine own ignorance.</p>
                         <p>More worth is ſhe <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -1191,7 +1193,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>He that giveth a denial with reaſon, ſhall ſuffer a repulſe with moderation.</p>
                         <p>If thou art ſuſpected, anſwer with freedom: Whom ſhould ſuſpicion affright, except the guilty?</p>
                         <p>
-                           <pb n="62" facs="tcp:022469_0057_0FB920FBE98F3C88"/>The tender of heart is turned from his purpoſe by ſupplica<g ref="char:EOLhyphen"/>tions, the proud is rendered more obſtinate by intreaty, the ſenſe of thine inſufficiency commandeth thee to hear; but to be juſt, thou muſt hear without thy paſſions.</p>
+                           <pb n="62" facs="unknown:022469_0057_0FB920FBE98F3C88"/>The tender of heart is turned from his purpoſe by ſupplica<g ref="char:EOLhyphen"/>tions, the proud is rendered more obſtinate by intreaty, the ſenſe of thine inſufficiency commandeth thee to hear; but to be juſt, thou muſt hear without thy paſſions.</p>
                      </div>
                      <div n="5" type="chapter">
                         <head>CHAP. V. MISERY.</head>
@@ -1209,7 +1211,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Enough of evil is allotted unto man; but he maketh it more, while he lamenteth it.</p>
                         <p>The greateſt of all human ills, is ſorrow: Too much of this thou art born unto: Add not unto it by thine own pre<g ref="char:EOLhyphen"/>verſeneſs.</p>
                         <p>
-                           <pb n="63" facs="tcp:022469_0058_0FB920FE14607DE0"/>Grief is natural to thee, and is always about thee; pleaſure is a ſtranger, and viſiteth thee but by times: Uſe well thy reaſon, and ſorrow ſhall be caſt behind thee; be prudent, and the viſits of joy ſhall remain long with thee.</p>
+                           <pb n="63" facs="unknown:022469_0058_0FB920FE14607DE0"/>Grief is natural to thee, and is always about thee; pleaſure is a ſtranger, and viſiteth thee but by times: Uſe well thy reaſon, and ſorrow ſhall be caſt behind thee; be prudent, and the viſits of joy ſhall remain long with thee.</p>
                         <p>Every part of thy frame is capable of ſorrow; but few and narrow are the paths that lead to delight.</p>
                         <p>Pleaſures can be admitted only ſimply; but pains ruſh in a thouſand at a time.</p>
                         <p>As the blaze of ſtraw fadeth as ſoon as it is kindled, ſo paſſeth away the brightneſs of joy, and thou knoweſt not what is become of it.</p>
@@ -1232,7 +1234,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <head>CHAP. VI. Or JUDGMENT.</head>
                         <p>THE greateſt bounties given to man are, judgment and will; happy is he who miſapplieth them not.</p>
                         <p>
-                           <pb n="64" facs="tcp:022469_0059_0FB920FF941FCB60"/>As the torrent that rolieth down the mountains deſtroyeth all that is borne away by it; ſo doth common opinion overwhelm reaſon, in him who ſubmitteth to it without ſaying, What is thy foundation?</p>
+                           <pb n="64" facs="unknown:022469_0059_0FB920FF941FCB60"/>As the torrent that rolieth down the mountains deſtroyeth all that is borne away by it; ſo doth common opinion overwhelm reaſon, in him who ſubmitteth to it without ſaying, What is thy foundation?</p>
                         <p>See that what thou receiveſt is truth, be not the ſhadow of it: What thou acknowledgeſt as convincing, is often but plauſible. Be firm, be conſtant, determine for thyſelf; ſo ſhalt thou be anſwerable only for thy own weakneſs.</p>
                         <p>Say not that the event proveth the wiſdom of the action, re<g ref="char:EOLhyphen"/>member man is not above the reach of accidents.</p>
                         <p>Condemn not the judgment of another, becauſe it differeth from thine own; may not even both be in an error?</p>
@@ -1248,7 +1250,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Fame aſtoniſheth the ear of him who heareth it, but tran<g ref="char:EOLhyphen"/>quility rejoiceth the heart that is poſſeſſed of it.</p>
                         <p>Attribute not the good actions of another to bad cauſes. Thou canſt not know his heart; but the world will know by this, that thine is full of envy.</p>
                         <p>
-                           <pb n="65" facs="tcp:022469_0060_0FB92101D77700F8"/>There is not in hypocriſy more vice than folly; to be honeſt, is as eaſy as to ſeem ſo.</p>
+                           <pb n="65" facs="unknown:022469_0060_0FB92101D77700F8"/>There is not in hypocriſy more vice than folly; to be honeſt, is as eaſy as to ſeem ſo.</p>
                         <p>Be more ready to acknowledge a benefit than to revenge an injury; ſo ſhalt thou have more benefits than injuries done unto thee.</p>
                         <p>Be more ready to love than to hate; ſo ſhalt thou be loved by more than hate thee.</p>
                         <p>Be willing to commend, and ſlow to cenſure; ſo ſhall praiſe be upon thy virtues; and the eye of enmity ſhall be blind to thy imperfections.</p>
@@ -1263,7 +1265,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Wouldſt thou enjoy the good-will of all men? Let thine own benevolence be univerſal. If thou obtaineſt it not by this, no other means could give it thee: And know, though thou haſt it not, thou haſt the greater pleaſure of having merited it.</p>
                      </div>
                      <div n="7" type="chapter">
-                        <pb n="66" facs="tcp:022469_0061_0FB9210369A95C08"/>
+                        <pb n="66" facs="unknown:022469_0061_0FB9210369A95C08"/>
                         <head>CHAP. VII. PRESUMPTION.</head>
                         <p>PRIDE and meanneſs ſeem incompatible, but man recon<g ref="char:EOLhyphen"/>cileth contrarieties; he is at once the moſt amiable and the moſt arrogant of all creatures.</p>
                         <p>Preſumption is the bane of reaſon; it is the nurſe of error; yet it is congenial with reaſon in us.</p>
@@ -1278,7 +1280,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Be not like unto thoſe who fight with the thunder; nor dare thou to deny thy Creator thy prayers, becauſe he chaſtiſeth thee. Thy madneſs is on thine own head in this; thy impiety hurteth no one but thyſelf.</p>
                         <p>Why boaſteth man, that he is the favourite of his Maker; yet neglecteth to pay his thanks, his adorations for it? How ſuiteth ſuch a life with a belief ſo haughty? Man, who is truly but a mote in the wide expanſe, believeth the whole earth and Heaven created for him. He thinketh the whole frame of nature hath intereſt in his well-being.</p>
                         <p>
-                           <pb n="67" facs="tcp:022469_0062_0FB92104D487F370"/>As the fool, while the images tremble on the boſom of the water, thinketh, that trees, towns, and the wide horizon, are dancing to do him pleaſure; ſo man, while nature performs her deſtined courſe, believes that all her motions are but to entertain his eye.</p>
+                           <pb n="67" facs="unknown:022469_0062_0FB92104D487F370"/>As the fool, while the images tremble on the boſom of the water, thinketh, that trees, towns, and the wide horizon, are dancing to do him pleaſure; ſo man, while nature performs her deſtined courſe, believes that all her motions are but to entertain his eye.</p>
                         <p>While he courts the rays of the ſun to warm him, he ſup<g ref="char:EOLhyphen"/>poſeth it made only to be of uſe to him; while he traceth the moon in her nightly path, he believeth ſhe was created to do him pleaſure.</p>
                         <p>Fool to thine own pride! be humble: Know thou art not the cauſe why the world holdeth its courſe; for thee are not made the viciſſitudes of ſummer and winter.</p>
                         <p>No change would follow, if thy whole race exiſted not; thou art but one among millions that are bleſſed in it.</p>
@@ -1293,7 +1295,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Who is it, that affirms moſt boldly? who is it that holds his opinion moſt obſtinately? Even he who hath moſt ignorance; for he alſo hath moſt pride.</p>
                         <p>Every man, when he layeth hold of an opinion, deſireth to remain in it; but moſt of all, he who hath moſt preſumption. He contenteth not himſelf to betray his own ſoul into it, but he will impoſe it on others to believe in it alſo.</p>
                         <p>
-                           <pb n="68" facs="tcp:022469_0063_0FB9210654CFF508"/>Say not that truth is eſtabliſhed by years, or that in a multi<g ref="char:EOLhyphen"/>tude of believers there is certainty.</p>
+                           <pb n="68" facs="unknown:022469_0063_0FB9210654CFF508"/>Say not that truth is eſtabliſhed by years, or that in a multi<g ref="char:EOLhyphen"/>tude of believers there is certainty.</p>
                         <p>One human propoſition hath as much authority as another, if reaſon maketh not the difference.</p>
                      </div>
                   </div>
@@ -1310,7 +1312,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Whoſo feareth not poverty as the greateſt evil of his nature, will not purchaſe to himſelf all other evils in the avoiding of it.</p>
                         <p>Thou fool! is not virtue of more worth than riches? is not guilt more baſe than poverty? Enough for his neceſſities is in the power of every man; be content with it, and thy happineſs ſhall ſmile at the ſorrows of him who heapeth up more.</p>
                         <p>
-                           <pb n="69" facs="tcp:022469_0064_0FB92107D4B22050"/>Nature hath hid gold beneath the earth, as unworthy to be ſeen; ſilver hath ſhe placed, where thou trampleſt it under thy feet. Meaneth ſhe not by this to inform thee, that gold is not worthy thy regard, that ſilver is beneath thy notice?</p>
+                           <pb n="69" facs="unknown:022469_0064_0FB92107D4B22050"/>Nature hath hid gold beneath the earth, as unworthy to be ſeen; ſilver hath ſhe placed, where thou trampleſt it under thy feet. Meaneth ſhe not by this to inform thee, that gold is not worthy thy regard, that ſilver is beneath thy notice?</p>
                         <p>Covetouſneſs burieth under ground millions of wretches; theſe dig for their hard maſters, what returneth the injury? what maketh them more miſerable than their ſlaves?</p>
                         <p>The earth is barren of good things where ſhe hoardeth up trea<g ref="char:EOLhyphen"/>ſure: Where gold is in her bowels, there no herb groweth.</p>
                         <p>As the horſe findeth not there his graſs, nor the mule his pro<g ref="char:EOLhyphen"/>vender; as the fields of corn laugh not on the ſides of the hills; as the olive holdeth not forth there her fruits, nor the vine her cluſters: Even ſo no good dwelleth in the breaſt of him, whoſe heart broodeth over his treaſure.</p>
@@ -1327,7 +1329,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>IF there be a vice greater than the hoarding up of riches; it is the employing them to uſeleſs purpoſes.</p>
                         <p>He that prodigally laviſheth that which he hath to ſpare, robbeth the poor of what Nature giveth him a right unto.</p>
                         <p>
-                           <pb n="70" facs="tcp:022469_0065_0FB92109DEC1CB68"/>He who ſquandereth away his treaſure, refuſeth the means to do good: He denieth himſelf the practice of virtues, whoſe re<g ref="char:EOLhyphen"/>ward is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <pb n="70" facs="unknown:022469_0065_0FB92109DEC1CB68"/>He who ſquandereth away his treaſure, refuſeth the means to do good: He denieth himſelf the practice of virtues, whoſe re<g ref="char:EOLhyphen"/>ward is <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> their hand, whoſe end is no other than his own hap<g ref="char:EOLhyphen"/>pineſs.</p>
                         <p>It is more difficult to be well with riches, than to be at eaſe under the want of them. Man governeth himſelf much eaſier in poverty, than in abundance.</p>
@@ -1347,7 +1349,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>In this thou not only preſerveſt thine own peace, but thou in<g ref="char:EOLhyphen"/>flicteſt puniſhment, without ſtooping to employ revenge againſt him.</p>
                         <p>As the tempeſt and the thunder affect not the ſun or the ſtars, but ſpend their fury on ſtones and trees below; ſo injuries aſcend not to the ſouls of the great, but waſte themſelves on ſuch as thoſe are who offer them.</p>
                         <p>
-                           <pb n="71" facs="tcp:022469_0066_0FB9210AD3D627D0"/>Poorneſs of ſpirit will actuate revenge; greatneſs of ſoul deſ<g ref="char:EOLhyphen"/>piſeth the offence: nay, it doth good unto him who intended to have diſburbed it.</p>
+                           <pb n="71" facs="unknown:022469_0066_0FB9210AD3D627D0"/>Poorneſs of ſpirit will actuate revenge; greatneſs of ſoul deſ<g ref="char:EOLhyphen"/>piſeth the offence: nay, it doth good unto him who intended to have diſburbed it.</p>
                         <p>Why ſeekeſt thou vengeance, O man! with what purpoſe is it that thou purſueſt it? Thinkeſt thou to pain thine adverſary by it? Know, that thyſelf feeleſt its greateſt torment.</p>
                         <p>Revenge gnaweth the heart of him who is infected with it; while he againſt whom it is intended, remaineth eaſy.</p>
                         <p>It is unjuſt in the anguiſh it inflicts; therefore, Nature intend<g ref="char:EOLhyphen"/>ed it not for thee: Needeth he who is injured, more pain? or ought he to add force to the affliction which another hath caſt upon him?</p>
@@ -1363,7 +1365,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Death endeth the quarrel; but it reſtoreth not the reputation: Killing is an act of caution, not of courage; it is ſafe, but it is not honourable.</p>
                         <p>There is nothing ſo eaſy as to revenge an offence, but nothing is ſo honourable as to pardon it.</p>
                         <p>
-                           <pb n="72" facs="tcp:022469_0067_0FB9210C54884578"/>The greateſt victory man can obtain, is over himſelf: He that diſdaineth to feel an injury, retorteth it upon him who offereth it.</p>
+                           <pb n="72" facs="unknown:022469_0067_0FB9210C54884578"/>The greateſt victory man can obtain, is over himſelf: He that diſdaineth to feel an injury, retorteth it upon him who offereth it.</p>
                         <p>When thou meditateſt revenge, thou confeſſeſt that thou feeleſt the wrong; when thou complaineſt, thou acknowledgeſt thyſelf hurt by it: Meaneſt thou to add this triumph to the pride of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>hine enemy?</p>
@@ -1382,7 +1384,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>The hero lifteth his ſword againſt the enemy that reſiſteth; but no ſooner doth he ſubmit, then he is ſatisfied.</p>
                         <p>It is not in honour, to trample on the object that feareth; it is not in virtue, to inſult what is beneath it: Subdue the inſo<g ref="char:EOLhyphen"/>lent, and ſpare the humble, and thou art at the height of victory.</p>
                         <p>
-                           <pb n="73" facs="tcp:022469_0068_0FB9210DD3E89A78"/>He who wanteth virtue to arrive at this end, he who hath not courage to aſcend thus unto it; lo! he ſupplieth the place of conqueſt by murder, of ſovereignty by ſlaughter.</p>
+                           <pb n="73" facs="unknown:022469_0068_0FB9210DD3E89A78"/>He who wanteth virtue to arrive at this end, he who hath not courage to aſcend thus unto it; lo! he ſupplieth the place of conqueſt by murder, of ſovereignty by ſlaughter.</p>
                         <p>He who feareth all, ſtriketh at all: why are tyrants cruel, but becauſe they live in terror?</p>
                         <p>The our will tear the carcaſe, though be dared not look it in the face while living; the hound that hunteth it to the death, mangleth it not afterwards.</p>
                         <p>Civil wars are the moſt bloody, becauſe thoſe who fight them are cowards: Conſpirators are murderers, becauſe in death there is ſilence: Is it not fear that telleth them they may be betrayed?</p>
@@ -1398,7 +1400,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Man purchaſeth nothing of his ſuperiors, but for a price; and that price, is it not more than the value? Wouldeſt thou pervert the cuſtoms of the world? wouldeſt thou have the pur<g ref="char:EOLhyphen"/>chaſe and the price alſo?</p>
                         <p>As thou canſt not envy what thou wouldeſt not accept, diſdain this cauſe of hatred; and drive from thy ſoul this occaſion of the parent of cruelty.</p>
                         <p>
-                           <pb n="74" facs="tcp:022469_0069_0FB9211077342FD8"/>If thou poſſeſſeſt honour, canſt thou envy that which is ob<g ref="char:EOLhyphen"/>tained at the expence of it? if thou knoweſt the value of virtue, pitieſt thou not thoſe who have bartered it ſo meanly?</p>
+                           <pb n="74" facs="unknown:022469_0069_0FB9211077342FD8"/>If thou poſſeſſeſt honour, canſt thou envy that which is ob<g ref="char:EOLhyphen"/>tained at the expence of it? if thou knoweſt the value of virtue, pitieſt thou not thoſe who have bartered it ſo meanly?</p>
                         <p>When thou haſt taught thyſelf to bear the ſeeming good of men without repining, thou wilt hear of their real happineſs with pleaſure.</p>
                         <p>If thou ſeeſt good things fall to one who deſerveth them, thou wilt rejoice in it; for virtue is happy in the proſperity of the virtuous.</p>
                         <p>He who rejoiceth in the happineſs of another, encreaſeth by it his own.</p>
@@ -1414,7 +1416,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>If thou wouldſt avoid what is baſe, if thou wouldſt diſdain what is cowardly, if thou wouldſt drive from thy heart what is unjuſt, ſuffer not ſadneſs to lay hold upon it.</p>
                         <p>Suffer it not to cover itſelf with the face of piety; let it not deceive thee with a ſhew of wiſdom. Religion payeth honour to thy Maker: Let it not be clouded with melancholy: Wiſdom maketh thee happy; know then, that ſorrow is to her looks a ſtranger.</p>
                         <p>
-                           <pb n="75" facs="tcp:022469_0070_0FB9211194780938"/>For what ſhould man be ſorrowful, but for afflictions? Why ſhould his heart give up joy, when the cauſes of it are not re<g ref="char:EOLhyphen"/>moved from him? Is not this being miſerable for the ſake of miſery?</p>
+                           <pb n="75" facs="unknown:022469_0070_0FB9211194780938"/>For what ſhould man be ſorrowful, but for afflictions? Why ſhould his heart give up joy, when the cauſes of it are not re<g ref="char:EOLhyphen"/>moved from him? Is not this being miſerable for the ſake of miſery?</p>
                         <p>As the mourner who looketh ſad becauſe he is hired to do ſo, who weepeth becauſe his tears are paid for; ſuch is the man who ſuffereth his heart to be ſad, not becauſe he ſuffereth aught, but becauſe he is gloomy.</p>
                         <p>It is not the occaſion that produceth the ſorrow; for behold the ſame thing ſhall be to another rejoicing.</p>
                         <p>Aſk men if their ſadneſs maketh things the better, and them<g ref="char:EOLhyphen"/>ſelves will confeſs to thee that it is folly; nay, they will praiſe him who beareth his ills with patience, who maketh head againſt misfortune with courage. Applauſe ſhould be followed by imitation.</p>
@@ -1431,7 +1433,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                               <desc>•</desc>
                            </gap> his majeſty?</p>
                         <p>
-                           <pb n="76" facs="tcp:022469_0071_0FB9211428797728"/>While thou art moſt happy with innocence, thou doſt him moſt honour, and what is thy diſcontent, but murmuring againſt him?</p>
+                           <pb n="76" facs="unknown:022469_0071_0FB9211428797728"/>While thou art moſt happy with innocence, thou doſt him moſt honour, and what is thy diſcontent, but murmuring againſt him?</p>
                         <p>Created he not all things liable to changes; and dareſt thou to weep at their changing?</p>
                         <p>If we know the law of nature, wherefore do we complain of it? if we are ignorant of it, what ſhould we accuſe, but our blindneſs to what every moment giveth us proof of?</p>
                         <p>Know that it is not thou that art to give laws to the world; thy part is to ſubmit to them as thou findeſt them. If they diſ<g ref="char:EOLhyphen"/>treſs thee, thy lamenting it but addeth to thy torment.</p>
@@ -1446,7 +1448,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                      </div>
                   </div>
                   <div n="4" type="book">
-                     <pb n="77" facs="tcp:022469_0072_0FB9211554FFEA60"/>
+                     <pb n="77" facs="unknown:022469_0072_0FB9211554FFEA60"/>
                      <head>BOOK IV. Of the ADVANTAGES Man may acquire over his FELLOW CREATURES.</head>
                      <div n="1" type="chapter">
                         <head>CHAP. I. NOBILITY and HONOUR.</head>
@@ -1463,7 +1465,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>He will acquire honour, while others receive it; and will he not ſay unto them, Such were the men whom you glory in being derived from?</p>
                         <p>As the ſhadow waiteth on the ſubſtance, even ſo true honour attendeth on virtue.</p>
                         <p>
-                           <pb n="78" facs="tcp:022469_0073_0FB92116D5389630"/>Say not that honour is the child of boldneſs, nor believe thou that the hazard of life alone can pay the price of it: It is not to the action that it is due, but to the manner of performing it.</p>
+                           <pb n="78" facs="unknown:022469_0073_0FB92116D5389630"/>Say not that honour is the child of boldneſs, nor believe thou that the hazard of life alone can pay the price of it: It is not to the action that it is due, but to the manner of performing it.</p>
                         <p>All are not called to the guiding the helm of ſtate; neither are their armies to be commanded by every one: Do well in that which is committed to thy charge, and praiſe ſhall remain upon thee.</p>
                         <p>Say not that difficulties are neceſſary to be conquered, or that labour and danger muſt be in the way to renown. The woman who is chaſte, is ſhe not praiſed? the man who is honeſt, de<g ref="char:EOLhyphen"/>ſerveth he not to be honoured?</p>
                         <p>The thirſt of fame is violent; the deſire of honour is power<g ref="char:EOLhyphen"/>ful; and he who gave them to us, gave them for great purpoſes.</p>
@@ -1480,7 +1482,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>The ſerpent looſeth not his ſting, tho' benumbed with the froſt; the tooth of the viper is not broken, tho' the cold cloſeth his mouth: Take pity on his ſtate, and he will ſhew thee his ſpirit; warm him in thy boſom, and he will requite thee with death.</p>
                         <p>He that is truly virtuous, loveth virtue for herſelf; he diſ<g ref="char:EOLhyphen"/>daineth the applauſe which ambition aimeth after.</p>
                         <p>
-                           <pb n="79" facs="tcp:022469_0074_0FB92118540DD1D0"/>How pitiable were the ſtate of virtue, if ſhe could not be happy but from another's praiſe? She is too noble to ſeek re<g ref="char:EOLhyphen"/>compence, and no more will, than can be rewarded.</p>
+                           <pb n="79" facs="unknown:022469_0074_0FB92118540DD1D0"/>How pitiable were the ſtate of virtue, if ſhe could not be happy but from another's praiſe? She is too noble to ſeek re<g ref="char:EOLhyphen"/>compence, and no more will, than can be rewarded.</p>
                         <p>The higher the ſun ariſeth, the leſs ſhadow doth he make: Even ſo the greater is the virtue, the leſt doth it covet praiſe; yet cannot it avoid its reward in honours.</p>
                         <p>Glory, like a ſhadow, flieth him who purſueth it; but it fol<g ref="char:EOLhyphen"/>loweth at the heels of him who would fly from it: If thou courteſt it without merit, thou ſhalt never attain unto it; if thou deſerveſt it, though thou hideſt thyſelf, it will never for<g ref="char:EOLhyphen"/>ſake thee.</p>
                         <p>Purſue that which is honourable, do that which is right; and the applauſe of thine own conſcience will be more joy to thee, than the ſhouts of millions who know not that thou deſerveſt them.</p>
@@ -1499,7 +1501,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>Behold, how awful their ſplendor! yet do they not diminiſh: Lo, how rapid their motions! yet one runneth not in the way of another.</p>
                         <p>Look down upon the earth, and ſee her produce, examine her bowels, and behold what they contain! Hath not wiſdom and power ordained the whole?</p>
                         <p>
-                           <pb n="80" facs="tcp:022469_0075_0FB92119D44CFDB0"/>Who biddeth the graſs to ſpring up? who watereth it at its due ſeaſons? Behold! the ox croppeth it; the horſe and the ſheep, feed they not upon it? Who is he that provideth it for them?</p>
+                           <pb n="80" facs="unknown:022469_0075_0FB92119D44CFDB0"/>Who biddeth the graſs to ſpring up? who watereth it at its due ſeaſons? Behold! the ox croppeth it; the horſe and the ſheep, feed they not upon it? Who is he that provideth it for them?</p>
                         <p>Who giveth increaſe to the corn which thou ſoweſt? who re<g ref="char:EOLhyphen"/>turneth it to thee a thouſand fold?</p>
                         <p>Who ripeneth for thee the olive in its time? and the grape, though thou knoweſt not the cauſe of it?</p>
                         <p>Can the meaneſt fly create itſelf? or wert thou ought leſs than God, couldſt thou have faſhioned it?</p>
@@ -1516,7 +1518,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                      </div>
                   </div>
                   <div n="5" type="book">
-                     <pb n="81" facs="tcp:022469_0076_0FB9211B53EA7AF0"/>
+                     <pb n="81" facs="unknown:022469_0076_0FB9211B53EA7AF0"/>
                      <head>BOOK V. Of NATURAL ACCIDENTS.</head>
                      <div n="1" type="chapter">
                         <head>CHAP. I. PROSPERITY and ADVERSITY.</head>
@@ -1534,7 +1536,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>In adverſity, man ſeeth himſelf abandoned by others; he findeth that all his hopes are centered within himſelf: He rouſeth his ſoul, he encountereth his difficulties, and they yield before him.</p>
                         <p>In proſperity, he fancieth himſelf ſafe; he thinketh he is be<g ref="char:EOLhyphen"/>loved of all that ſmile about his table: He groweth careleſs and remiſs; he ſeeth not the danger that is before him: He truſteth to others, and in the end they deceive him.</p>
                         <p>
-                           <pb n="82" facs="tcp:022469_0077_0FB9211CD48AF110"/>Every man can adviſe his own ſoul in diſtreſs; but proſperity blindeth the truth.</p>
+                           <pb n="82" facs="unknown:022469_0077_0FB9211CD48AF110"/>Every man can adviſe his own ſoul in diſtreſs; but proſperity blindeth the truth.</p>
                         <p>Better is the ſorrow that leadeth to contentment, than the joy that rendereth man unable to endure diſtreſs, and afterwards plungeth him into it.</p>
                         <p>Our paſſions dictate to us in all our extremes. Moderation is the effect of wiſdom.</p>
                         <p>Be upright in thy whole life; be content in all its changes: So ſhalt thou make thy profit out of all occurrences; ſo ſhall every thing that happeneth unto thee, be the ſource of praiſe.</p>
@@ -1553,7 +1555,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                               <desc>••</desc>
                            </gap>ll in thy hope.</p>
                         <p>
-                           <pb n="83" facs="tcp:022469_0078_0FB921225CA96318"/>To ſuffer, is a neceſſity entailed upon thy nature; wouldſt thou that maricles ſhould protect thee from it? or ſhalt thou repine, becauſe it happeneth unto thee, when, lo! it happeneth unto all?</p>
+                           <pb n="83" facs="unknown:022469_0078_0FB921225CA96318"/>To ſuffer, is a neceſſity entailed upon thy nature; wouldſt thou that maricles ſhould protect thee from it? or ſhalt thou repine, becauſe it happeneth unto thee, when, lo! it happeneth unto all?</p>
                         <p>It is injuſtice to expect exemption from what thou wert born unto; ſubmit with modeſty to the laws of thy condition.</p>
                         <p>Wouldſt thou ſay to the ſeaſons, Paſs not on, leſt I grow old? Is it not better to ſuffer well that which thou canſt not avoid?</p>
                         <p>Pain that endureth long, is moderate; bluſh therefore to com<g ref="char:EOLhyphen"/>plain of it: That which is violent, is ſhort; behold! thou ſeeſt the end of it.</p>
@@ -1569,7 +1571,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                         <p>He that conſidereth he is to die, is content while he liveth; He who ſtriveth to forget it, hath no pleaſure in any thing; his joy appeareth to him a jewel, which he expecteth every moment he ſhall loſe.</p>
                         <p>Wouldſt thou learn to die nobly! let thy vices die before thee. Happy is he who endeth the buſineſs of his life, before his death; who when the hour of it cometh hath nothing to do but to die; who witheth not delay, becauſe he hath no longer uſe for time.</p>
                         <p>
-                           <pb n="84" facs="tcp:022469_0079_0FB921239A14C5E8"/>Avoid not death, for it is a weakneſs; fear it not, for thou underſtandeſt not what it is: All that thou certainly knoweſt, is, that it putteth an end to thy ſorrows.</p>
+                           <pb n="84" facs="unknown:022469_0079_0FB921239A14C5E8"/>Avoid not death, for it is a weakneſs; fear it not, for thou underſtandeſt not what it is: All that thou certainly knoweſt, is, that it putteth an end to thy ſorrows.</p>
                         <p>Think not the longeſt life the happieſt; that which is beſt employed, doth man the moſt honour: himſelf ſhall rejoice after death, in the advantages of it.</p>
                      </div>
                   </div>
@@ -1579,14 +1581,14 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
             </body>
             <back>
                <div type="publishers_advertisement">
-                  <pb facs="tcp:022469_0080_0FB92125156EF428"/>
+                  <pb facs="unknown:022469_0080_0FB92125156EF428"/>
                   <p>THE FOLLOWING BOOKS, Lately printed by HUGH GAINE, are ſold at his Book-Store and Printing-Office, at the Bible, in Hanover-Square.</p>
                   <p>THE CONDUCTOR GENERALIS: OR, THE Office, Duty, and Authority of JUSTICES of the PEACE, High-Sheriffs, Under-Sheriffs, Coroners, Conſtables, Gaolers, Jurymen, and Overſeers of the Poor.</p>
                   <p>AN INTRODUCTION to the LAW RELATIVE TO TRIALS AT NISI PRIUS. The fifth Edition, with Additions and Corrections. By <hi>Francis Buller,</hi> Eſquire, of the Middle Temple.</p>
                   <p>THE YOUNG CLERK's VADE MECUM; OR, COMPLETE LAW TUTOR: Being a uſeful Collection of the moſt approved Precedents in the Law.</p>
                   <p>THE Young Gentleman and Ladies MONITOR, AND Engliſh Teacher's ASSISTANT: Being a Collection of ſelect Pieces from our beſt modern Writers, and eſteemed the beſt Book for Schools of any in America.</p>
                   <p>
-                     <pb facs="tcp:022469_0081_0FB9212693CF80B0"/>THE SCHOOLMASTER'S ASSISTANT: Being a Compendium of Arithmetic, both practi<g ref="char:EOLhyphen"/>cal and theoretical; in five Parts.</p>
+                     <pb facs="unknown:022469_0081_0FB9212693CF80B0"/>THE SCHOOLMASTER'S ASSISTANT: Being a Compendium of Arithmetic, both practi<g ref="char:EOLhyphen"/>cal and theoretical; in five Parts.</p>
                   <p>HERVEY's MEDITATIONS. Two Vols. bound in one.</p>
                   <p>A neat Edition of POMFRET's POEMS. On fine Paper.</p>
                   <p>Aſh's Grammatical Inſtitutes: Or, an eaſy Introduction to Dr. Lowth's Engliſh Grammar.</p>
@@ -1597,7 +1599,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                   <p>Riggs's New American LATIN GRAMMAR: Or, a complete Introduction to the Latin Tongue.</p>
                </div>
                <div type="list_of_supplies">
-                  <pb facs="tcp:022469_0082_0FB9212813DFB520"/>
+                  <pb facs="unknown:022469_0082_0FB9212813DFB520"/>
                   <head>BLANK BOOKS, STATIONARY, <hi>&amp;c.</hi>
                   </head>
                   <list>
@@ -1629,7 +1631,7 @@ without it, age plants more wrinkles in the ſoul than on the forehead.</p>
                      <item>Steel and Leather Spectacle Caſes.</item>
                      <item>Large and ſmall Spy-Glaſſes.</item>
                      <item>
-                        <pb facs="tcp:022469_0083_0FB9212993CB7D58"/>Letter Files, with Laces.</item>
+                        <pb facs="unknown:022469_0083_0FB9212993CB7D58"/>Letter Files, with Laces.</item>
                      <item>Scales and Dividers.</item>
                      <item>Surveyors Compaſſes and Chains.</item>
                      <item>Mathematical Inſtruments.</item>
